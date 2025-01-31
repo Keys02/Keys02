@@ -7,6 +7,7 @@ Terry_Davis](https://github.com/user-attachments/assets/e7928830-c2ad-49e3-a89e-
 - 📫 How to reach me +233-245-08-4916, keys14052002@gmail.com
 - ⚡ Fun fact: We do this not because it is easy, but because we thought it would be easy.
 - 👨🏽‍💻 Catchphrase: Who needs a gun🔫 to be a tough💪🏽 guy.
+
 ![Keys_wallpaper_dark](https://github.com/user-attachments/assets/678c28eb-0197-4e48-ad69-3c6024ce533d)
 <!---
 Keys02/Keys02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
