@@ -7,7 +7,9 @@ Terry_Davis](https://github.com/user-attachments/assets/e7928830-c2ad-49e3-a89e-
 - 📫 How to reach me +233-245-08-4916, keys14052002@gmail.com
 - ⚡ Fun fact: We do this not because it is easy, but because we thought it would be easy.
 - 👨🏽‍💻 Catchphrase: Who needs a gun🔫 to be a tough💪🏽 guy.
-![Keys_wallpaper_dark](https://github.com/user-attachments/assets/60205a16-edb9-4f69-8d72-8b0e31998382)
+
+![Keys__dev](https://github.com/user-attachments/assets/4cab1dc4-96ba-4a32-8d35-60102f17c20c)
+
 
 
 <!---
