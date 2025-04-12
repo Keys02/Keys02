@@ -10,6 +10,9 @@ Terry_Davis](https://github.com/user-attachments/assets/e7928830-c2ad-49e3-a89e-
 
 ![Keys__dev](https://github.com/user-attachments/assets/28b549de-88d1-4fea-9f28-3434851dddd5)
 
+### Typing Speed from monkeytype
+![Keys02_Typing_Speed_monkeytype](https://github.com/user-attachments/assets/7b6e04eb-981e-45d7-b268-7194d1fb8efa)
+
 
 
 
