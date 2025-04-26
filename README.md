@@ -1,5 +1,4 @@
-![![Terry_Davis](https://github.com/user-attachments/assets/16d91932-24a0-4351-beb8-5e3ae9af4d03)
-Terry_Davis](https://github.com/user-attachments/assets/e7928830-c2ad-49e3-a89e-cfa23df21057)
+![if-you-really-want-it-plan-for-it-motivation-us_GitHub](https://github.com/user-attachments/assets/241c9e50-3966-486e-8430-1d1a2d816216)
 - 👋 Hi, I’m Keys
 - 👀 I’m interested in web and app development
 - 🌱 I’m currently learning Backend development with PHP and MySQL
