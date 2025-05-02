@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Backend development with PHP and MySQL
 - 💞️ I’m looking to collaborate on a web development project
 - 📫 How to reach me +233-245-08-4916, keys14052002@gmail.com
-- ⚡ Fun fact: We do this not because it is easy, but because we thought it would be easy.
+- ⚡ Fun fact: As programmers we spend a lot of time fixing stuff, that's because we spend a lot of time breaking stuff.
 - 👨🏽‍💻 Catchphrase: Who needs a gun🔫 to be a tough💪🏽 guy.
 
 ![Keys__dev](https://github.com/user-attachments/assets/28b549de-88d1-4fea-9f28-3434851dddd5)
