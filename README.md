@@ -1,4 +1,4 @@
-![if-you-really-want-it-plan-for-it-motivation-us_GitHub_2](https://github.com/user-attachments/assets/86f4d2c9-9945-4e3a-a6fb-97d341de7c3b)
+![if-you-really-want-it-plan-for-it-motivation-us_GitHub](https://github.com/user-attachments/assets/b22be540-471e-492b-9203-613dd4c77dcd)
 - 👋 Hi, I’m Keys
 - 👀 I’m interested in web and app development
 - 🌱 I’m currently learning Backend development with PHP and MySQL
