@@ -6,8 +6,9 @@
 - 📫 How to reach me +233-245-08-4916, keys14052002@gmail.com
 - ⚡ Fun fact: As programmers we spend a lot of time fixing stuff, that's because we spend a lot of time breaking stuff.
 - 👨🏽‍💻 Catchphrase: Who needs a gun🔫 to be a tough💪🏽 guy.
-- 🚀 Random Dev Quote: Life is like a GitHub repository, nothing is going to change if you don't commit💍.
-    
+- 🚀 Random Dev Quote: Life is like a GitHub repository, nothing is going to change if you don't commit💍.  
+
+\
 ![Keys__dev](https://github.com/user-attachments/assets/28b549de-88d1-4fea-9f28-3434851dddd5)
 
 ### Typing stats📈 { Monkeytype }
