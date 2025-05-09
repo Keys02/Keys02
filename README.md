@@ -12,7 +12,8 @@
 ![Keys__dev](https://github.com/user-attachments/assets/28b549de-88d1-4fea-9f28-3434851dddd5)
 
 ### Typing stats📈 { Monkeytype }
-![brave_uBNFLrQTwM](https://github.com/user-attachments/assets/7c124ce8-38e9-47b0-b399-51cc7837cabf)
+![Typing_speed_on_monkeytype](https://github.com/user-attachments/assets/a9424500-6e85-4403-84ac-9341e5032fb9)
+
 
 
 
