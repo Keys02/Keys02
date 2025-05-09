@@ -8,7 +8,6 @@
 - 👨🏽‍💻 Catchphrase: Who needs a gun🔫 to be a tough💪🏽 guy.
 - 🚀 Random Dev Quote: Life is like a GitHub repository, nothing is going to change if you don't commit💍.
 
-
 ![Keys__dev](https://github.com/user-attachments/assets/28b549de-88d1-4fea-9f28-3434851dddd5)
 
 ### Typing stats📈 { Monkeytype }
