@@ -12,7 +12,11 @@
 ![Keys__dev](https://github.com/user-attachments/assets/28b549de-88d1-4fea-9f28-3434851dddd5)
 
 ### Typing stats📈 { Monkeytype }
-![Typing_speed_on_monkeytype](https://github.com/user-attachments/assets/a9424500-6e85-4403-84ac-9341e5032fb9)
+![Typing_speed_monkeytype](https://github.com/user-attachments/assets/45bfafe8-358d-416a-8281-0c27e3b434c0)
+\
+![brave_ser2gxiXzO](https://github.com/user-attachments/assets/ff1836e0-2062-4cf2-96bb-8bcdd270562b)
+
+
 
 
 
