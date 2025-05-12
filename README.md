@@ -1,12 +1,15 @@
-<h1 style="text-align: center">Hi, <img src='https://github.com/user-attachments/assets/1389dc35-c84f-41c3-ba79-145243752e59' width='50' height='50'/> I'm Keys</h1>
-
+<h1 align="center">Hi, <img src='https://github.com/user-attachments/assets/1389dc35-c84f-41c3-ba79-145243752e59' width='50' height='50'/> I'm Chris</h1>
+<p align="center">Call me <%= <b>Keys👩🏽‍💻</b> %></p>
+  
 ![if-you-really-want-it-plan-for-it-motivation-us_GitHub](https://github.com/user-attachments/assets/b22be540-471e-492b-9203-613dd4c77dcd)
 
+```my-own
 - 👀 Interest {web development, app development}
 - 📫 How to reach me {+233-245-08-4916, keys14052002@gmail.com}
 - ⚡ Fun fact: As programmers we spend a lot of time fixing stuff, that's because we spend a lot of time breaking stuff.
 - 👨🏽‍💻 Catchphrase: Who needs a gun🔫 to be a tough💪🏽 guy.
-- 🚀 Random Dev Quote: Life is like a GitHub repository, nothing is going to change if you don't commit💍.  
+- 🚀 Random Dev Quote: Life is like a GitHub repository, nothing is going to change if you don't commit💍.
+```
 
 \
 ![Keys__dev](https://github.com/user-attachments/assets/28b549de-88d1-4fea-9f28-3434851dddd5)
