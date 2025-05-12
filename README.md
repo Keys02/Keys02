@@ -4,7 +4,7 @@
 ![Keys__dev](https://github.com/user-attachments/assets/28b549de-88d1-4fea-9f28-3434851dddd5)
   
 ## ABOUT ME💻  
-```cpp
+```
 - 👀 Interest {web development, app development, logo designing, desktop wallpaper designing}
 - 📫 How to reach me {+233-245-08-4916, keys14052002@gmail.com}
 - ⚡ Fun fact: As programmers we spend a lot of time fixing stuff, that's because we spend a lot of time breaking stuff.
