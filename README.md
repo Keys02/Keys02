@@ -9,7 +9,7 @@
 - 📫 How to reach me {+233-245-08-4916, keys14052002@gmail.com}
 - ⚡ Fun fact: As programmers we spend a lot of time fixing stuff, that's because we spend a lot of time breaking stuff.
 - 👨🏽‍💻 Catchphrase: Who needs a gun🔫 to be a tough💪🏽 guy.
-- 🚶🏽 Favorite activities: {Cooking👩🏽‍🍳, reading📚, spending time in nature🌴🌳}
+- 🚶🏽 Favorite activities: {Cooking👩🏽‍🍳, Reading📚, Spending time in nature🌴🌳}
 - 🚀 Random Dev Quote: Life is like a GitHub repository, nothing is going to change if you don't commit💍.
 ```
 
