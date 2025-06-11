@@ -20,7 +20,8 @@
 ![Typing_speed_monkeytype](https://github.com/user-attachments/assets/45bfafe8-358d-416a-8281-0c27e3b434c0)
 
 \
-![brave_LWrlpPVSij](https://github.com/user-attachments/assets/780f069e-58df-4e47-9c01-e2074463e043)
+![MonkeyType_typing_speed](https://github.com/user-attachments/assets/628d2040-2348-4a10-a422-4e3ea0fa2e2e)
+
 
 
 
