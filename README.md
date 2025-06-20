@@ -17,10 +17,12 @@
 
 <h2>Typing stats📈 { Monkeytype <span><img src='https://github.com/user-attachments/assets/10dc1589-ac59-4818-84a0-7a9a383eda08' with='28' height='28'/><img src='https://github.com/user-attachments/assets/ad6a0023-8691-4df2-bdcc-3c1df3c7ee01' with='30' height='30'/><img src='https://github.com/user-attachments/assets/e52ee40e-3797-404b-9dd8-d895e1a84b18' with='30' height='30'/><span> } </h2>
 
-![Typing_speed_monkeytype](https://github.com/user-attachments/assets/45bfafe8-358d-416a-8281-0c27e3b434c0)
+![Monkeytype_new_record](https://github.com/user-attachments/assets/6c0818cf-750c-4c2c-8c79-69b0891d537e)
+
 
 \
-![MonkeyType_typing_speed](https://github.com/user-attachments/assets/628d2040-2348-4a10-a422-4e3ea0fa2e2e)
+![brave_9sLWGKDuQo](https://github.com/user-attachments/assets/693dd0ef-fd91-49fe-8ed5-800f9b120acb)
+
 
 
 
