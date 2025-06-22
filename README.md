@@ -16,7 +16,7 @@
 ![if-you-really-want-it-plan-for-it-motivation-us_GitHub](https://github.com/user-attachments/assets/b22be540-471e-492b-9203-613dd4c77dcd)
 
 <h2>Typing stats📈<span><img src='https://github.com/user-attachments/assets/10dc1589-ac59-4818-84a0-7a9a383eda08' with='28' height='28'/><img src='https://github.com/user-attachments/assets/ad6a0023-8691-4df2-bdcc-3c1df3c7ee01' with='30' height='30'/><img src='https://github.com/user-attachments/assets/e52ee40e-3797-404b-9dd8-d895e1a84b18' with='30' height='30'/></span></h2>
-<h3>MonkeyType</h3>  
+<h3>MonkeyType⌨️🐒</h3>  
   
 ![Monkeytype_new_record](https://github.com/user-attachments/assets/6c0818cf-750c-4c2c-8c79-69b0891d537e)
 
@@ -24,7 +24,7 @@
 \
 ![Monkeytype_insane_record🤯](https://github.com/user-attachments/assets/f65b50e5-fafd-49ca-a24d-628c2f40667c)  
 
-<h3>TypeRacer</h3>  
+<h3>TypeRacer🏁🏎️</h3>  
 
 ![Typeracer-ranking](https://github.com/user-attachments/assets/ee4c8f85-f139-4f57-afcd-b659e6e1f4c2)
 
