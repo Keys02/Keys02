@@ -21,7 +21,8 @@
 
 
 \
-![brave_9sLWGKDuQo](https://github.com/user-attachments/assets/693dd0ef-fd91-49fe-8ed5-800f9b120acb)
+![Monkeytype_insane_record🤯](https://github.com/user-attachments/assets/f65b50e5-fafd-49ca-a24d-628c2f40667c)
+
 
 
 
